@@ -44,13 +44,13 @@ Last Updated: March 6, 2023
 -   Misiaszek, C., Lin, G., Ramsing, R., Harding, J., Altema-Johnson,
     D., Mui, Y., Chang, K.B., Basserab, K., Clancy, K., Palmer, A. &
     Adams, A. (2023). **Using an agent-based model to evaluate selected
-    factors affecting meat reducgion strategies: A Baltimore case study
+    factors affecting meat reduction strategies: A Baltimore case study
     \[*Under Review*\]**. *JAMA Network Open*.
 
 -   Ramsing, R., Santo, R., Kim, B.F., Altema-Johnson, D., Wooden, A.,
     Chang, K.B., Semba, R.D. & Love, D. (2023). **Dairy and plant-based
-    milks: Implications for nutrition and planetary health \[*Under
-    Review*\]**. *Current Environmental Health Reports*.
+    milks: Implications for nutrition and planetary health
+    \[*Accepted*\]**. *Current Environmental Health Reports*.
 
 -   Semba, R.D., Ramsing, R., Thorne-Lyman, A.L., Rahman, N.,
     Altema-Johnson, D., Chang, K.B., Young, R., Nussbaumer, E., Bloem,
